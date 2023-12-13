@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiniMad.NavigationProperty", "DiniMad.NavigationProperty\DiniMad.NavigationProperty.csproj", "{F3EF5F55-5361-4477-9515-31158BCB0F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3EF5F55-5361-4477-9515-31158BCB0F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EF5F55-5361-4477-9515-31158BCB0F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3EF5F55-5361-4477-9515-31158BCB0F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EF5F55-5361-4477-9515-31158BCB0F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
